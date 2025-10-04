@@ -2,6 +2,9 @@
 
 My model pipeline (best_model_pipeline) is a joblib file. Look at how_to_run_model.ipynb to see how to load it up to test the model. The functions in the file are required to load the model!
 
+<img width="740" height="404" alt="image" src="https://github.com/user-attachments/assets/6ccf1567-c389-48a0-bb6f-def436773b2f" />
+
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required libraries.
