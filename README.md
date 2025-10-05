@@ -3,7 +3,8 @@ Darren Tan Zhi Jie
 
 Harshini Mahalingam
 
-EDA/DATA PREPROCESSING/TRAINING is done in NTUdatathon.ipynb file
+- EDA/DATA PREPROCESSING/TRAINING is done in NTUdatathon.ipynb file.
+- model pipeline is in a joblib file. 
 
 # My Model
 
