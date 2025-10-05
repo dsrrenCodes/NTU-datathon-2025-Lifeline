@@ -8,7 +8,7 @@ EDA/DATA PREPROCESSING/TRAINING is done in NTUdatathon.ipynb file
 # My Model
 
 My model pipeline (best_model_pipeline) is a joblib file. Look at how_to_run_model.ipynb to see how to load it up to test the model. The functions in the file are required to load the model!
-Also my training is done in NTUdatathon.ipynb file
+
 
 <img width="740" height="404" alt="image" src="https://github.com/user-attachments/assets/6ccf1567-c389-48a0-bb6f-def436773b2f" />
 
